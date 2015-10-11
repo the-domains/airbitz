@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Airbitz]]></title>
+        <description><![CDATA[Airbitz]]></description>
+        <link>https://thegrid.ai/airbitz/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 11 Oct 2015 01:09:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/airbitz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[San Diego companies paying workers in bitcoin]]></title>
+            <description><![CDATA[<article><h1>San Diego companies paying workers in bitcoin</h1><p>SAN DIEGO - Employees at some San Diego-based companies finish their workdays like many of us, but the difference is they will never see a paycheck. At SD3D Printing in Miramar, 3D printers create gadgets seemingly out of thin air.</p><img src="http://media.10news.com/photo/2013/12/16/Bitcoin_1387214376752_1658175_ver1.0_640_480.jpg"></article>]]></description>
+            <link>http://www.10news.com/news/san-diego-companies-paying-workers-in-bitcoin</link>
+            <guid isPermaLink="false">22815831-49ea-41c2-9c40-e5e041874343</guid>
+            <pubDate>Sun, 11 Oct 2015 01:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[San Diego Employees Paid In Bitcoin 'Never See a Paycheck']]></title>
+            <description><![CDATA[<article><h1>San Diego Employees Paid In Bitcoin 'Never See a Paycheck'</h1><p>San Diego based cryptocurrency wallet provider AirBitz was featured on ABC's 10 News as the local news network reported on companies in the city accepting and paying workers with bitcoin and how the workers "never see a paycheck." AirBitz launched in 2014 with founder Paul Puey creating a secure and simple wallet service with an added business directory.</p><img src="http://cointelegraph.com/images/725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzU0NzdmOTRmZTkzMWIzMWJhY2U2NjFhOTdmZDQ0ZTVlLnBuZw==.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/115358/san-diego-employees-paid-in-bitcoin-never-see-a-paycheck</link>
+            <guid isPermaLink="false">7fc2cb3e-ff01-4d49-b2e5-154dee032748</guid>
+            <pubDate>Sun, 11 Oct 2015 01:09:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
